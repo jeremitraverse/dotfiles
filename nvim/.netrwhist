@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/thr3m/.config/alacritty'
+let g:netrw_dirhist_7='/home/thr3m/alacritty'
+let g:netrw_dirhist_6='/home/thr3m/Code/repos/nojs/src/lexers'
+let g:netrw_dirhist_5='/home/thr3m/Code/repos/nojs'
+let g:netrw_dirhist_4='/home/thr3m/Code/repos/nojs/src/lexers'
+let g:netrw_dirhist_3='/home/thr3m/Code/repos/nojs/src'
+let g:netrw_dirhist_2='/home/thr3m/Code/repos/nojs'
+let g:netrw_dirhist_1='/home/thr3m/.config/alacritty'
