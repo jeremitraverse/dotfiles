@@ -1,7 +1,0 @@
-background_opacity: 0.9
-
-key_bindings:
-  - { key: A, mods: Control, action: SpawnNewInstance }
-
-font:
-  size: 16
